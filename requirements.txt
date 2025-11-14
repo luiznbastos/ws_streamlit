@@ -1,0 +1,10 @@
+plotly
+streamlit
+pandas
+redshift-connector
+boto3
+pydantic
+pydantic-settings
+nbformat
+mplsoccer
+matplotlib
